@@ -1,0 +1,2533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randrange〔function〕"
+			],
+			[
+				"H",
+				"HttpRequest〔class〕"
+			],
+			[
+				"pro",
+				"protoMessage〔variable〕"
+			],
+			[
+				"lottery",
+				"lotteryResult〔variable〕"
+			],
+			[
+				"ma",
+				"matchedElements"
+			],
+			[
+				"get",
+				"getState"
+			],
+			[
+				"fin",
+				"fingerPrintArray〔variable〕"
+			],
+			[
+				"later",
+				"latestDrawDateElement"
+			],
+			[
+				"cu",
+				"customException"
+			],
+			[
+				"lotte",
+				"lottery_result_category"
+			],
+			[
+				"game",
+				"gameType〔variable〕"
+			],
+			[
+				"custom",
+				"customException"
+			],
+			[
+				"latest",
+				"latestDrawDate"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"custo",
+				"customException"
+			],
+			[
+				"late",
+				"latestDrawDateElement〔variable〕"
+			],
+			[
+				"exte",
+				"extension〔variable〕"
+			],
+			[
+				"draw",
+				"drawType〔variable〕"
+			],
+			[
+				"set",
+				"setId"
+			],
+			[
+				"lote",
+				"lotteryResult"
+			],
+			[
+				"win",
+				"winning_results"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"lotter",
+				"lottteryResult〔variable〕"
+			],
+			[
+				"con",
+				"console.\tconsole.log()"
+			],
+			[
+				"winni",
+				"winningResult"
+			],
+			[
+				"res",
+				"resultElements〔variable〕"
+			],
+			[
+				"FIN",
+				"FINGERPRINT_MAP〔variable〕"
+			],
+			[
+				"cons",
+				"concorsoArray〔argument〕"
+			],
+			[
+				"finger",
+				"fingerPrintArray"
+			],
+			[
+				"date",
+				"dateString〔argument〕"
+			],
+			[
+				"ch",
+				"checkPrizeCategoryFingerPrint"
+			],
+			[
+				"check",
+				"checkDrawFingerPrint"
+			],
+			[
+				"jac",
+				"jackpot〔variable〕"
+			],
+			[
+				"eleme",
+				"elements〔variable〕"
+			],
+			[
+				"craw",
+				"crawlData〔variable〕"
+			],
+			[
+				"cra",
+				"crawlData〔variable〕"
+			],
+			[
+				"che",
+				"checkDrawFingerPrint"
+			],
+			[
+				"add",
+				"addWinningResults"
+			],
+			[
+				"ren",
+				"renderResult_"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"getEle",
+				"getElement"
+			],
+			[
+				"mone",
+				"moneyValue_"
+			],
+			[
+				"winning",
+				"winningResult_"
+			],
+			[
+				"getP",
+				"getPrizeCategory"
+			],
+			[
+				"pri",
+				"prizeElement"
+			],
+			[
+				"winn",
+				"winnerElement"
+			],
+			[
+				"ca",
+				"categoryElement"
+			],
+			[
+				"re",
+				"removeEventListener〔function〕"
+			],
+			[
+				"fingerPrint",
+				"fingerPrintString"
+			],
+			[
+				"node",
+				"nodeArray"
+			],
+			[
+				"co",
+				"concorsoArray"
+			],
+			[
+				"concorso",
+				"concorsoArray"
+			],
+			[
+				"crawlData",
+				"crawlData.ExtractLotteryResult.setPrizes"
+			],
+			[
+				"official",
+				"officialNameElement"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"setGame",
+				"setGameCategory"
+			],
+			[
+				"E",
+				"ExtractLotteryResult"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"tab",
+				"tablaDetalle"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"prize",
+				"prizeAmountValue"
+			],
+			[
+				"prizeCat",
+				"prizeCategoryValue〔variable〕"
+			],
+			[
+				"ja",
+				"jackpotFingerPrintValue"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"off",
+				"officialName"
+			],
+			[
+				"lo",
+				"lotteryId"
+			],
+			[
+				"dra",
+				"drawElement〔argument〕"
+			],
+			[
+				"drawType",
+				"drawTypeB"
+			],
+			[
+				"offi",
+				"official_name"
+			],
+			[
+				"winners",
+				"winnersElement"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"format",
+				"formatDate〔function〕"
+			],
+			[
+				"data",
+				"dataEstrazione"
+			],
+			[
+				"loteyr",
+				"lotteryId〔variable〕"
+			],
+			[
+				"organi",
+				"organizerValue〔variable〕"
+			],
+			[
+				"oa",
+				"officialName"
+			],
+			[
+				"drwa",
+				"drawElement"
+			],
+			[
+				"crawl",
+				"crawlData〔variable〕"
+			],
+			[
+				"priz",
+				"prizeCategory"
+			],
+			[
+				"response",
+				"responseArray〔argument〕"
+			],
+			[
+				"refu",
+				"refundResponse"
+			],
+			[
+				"main",
+				"mainDrawValues"
+			],
+			[
+				"wi",
+				"winningResultCategoryElement"
+			],
+			[
+				"location",
+				"locationWinnersPrize〔variable〕"
+			],
+			[
+				"curren",
+				"current〔argument〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"queryS",
+				"querySelectorAll"
+			],
+			[
+				"loca",
+				"locationWinnersPrize〔variable〕"
+			],
+			[
+				"winers",
+				"winnersValue〔variable〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"par",
+				"parseFloat〔function〕"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"queryE",
+				"querySelector"
+			],
+			[
+				"getElements",
+				"getElementsByClassName"
+			],
+			[
+				"inne",
+				"i].innerHTML"
+			],
+			[
+				"lott",
+				"lotterySequnce"
+			],
+			[
+				"el",
+				"elementValue"
+			],
+			[
+				"Da",
+				"DateTimeFormat"
+			],
+			[
+				"para",
+				"parentNode〔variable〕"
+			],
+			[
+				"click",
+				"clickListItem"
+			],
+			[
+				"ea",
+				"ExtractLotteryResult〔class〕"
+			],
+			[
+				"new",
+				"newLink"
+			],
+			[
+				"url",
+				"urlList〔variable〕"
+			],
+			[
+				"on",
+				"onGroupEnd"
+			],
+			[
+				"config",
+				"configTaskGroup"
+			],
+			[
+				"state",
+				"state_"
+			],
+			[
+				"clc",
+				"clickNext"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"review",
+				"reviewText"
+			],
+			[
+				"reviewT",
+				"reviewTitle"
+			],
+			[
+				"deta",
+				"details"
+			],
+			[
+				"count",
+				"countInfo〔function〕"
+			],
+			[
+				"cou",
+				"countError〔function〕"
+			],
+			[
+				"noM",
+				"noMatchSelected"
+			],
+			[
+				"tota",
+				"totalHelpFull"
+			],
+			[
+				"paren",
+				"parentdiv"
+			],
+			[
+				"getRe",
+				"getReviewInfo"
+			],
+			[
+				"info",
+				"infoDiv"
+			],
+			[
+				"PAr",
+				"Partner_ID"
+			],
+			[
+				"rea",
+				"realTaxFees〔variable〕"
+			],
+			[
+				"real",
+				"realPrice〔variable〕"
+			],
+			[
+				"al",
+				"altValue"
+			],
+			[
+				"time",
+				"timemania"
+			],
+			[
+				"am",
+				"amountValues"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"input",
+				"input_file_path\tparam"
+			],
+			[
+				"inpi",
+				"input_file_path -> [ID]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/muypicky/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/google/home/prasenjitj/Desktop/simple_multithreading.py",
+			"settings":
+			{
+				"buffer_size": 586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/restaurants/views.py",
+			"settings":
+			{
+				"buffer_size": 225,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/urls.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/blaze.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/blaze.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/blaze.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Node.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/blaze.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JavaScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "theme",
+		"selected_items":
+		[
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"forma",
+				"Format: auto"
+			],
+			[
+				"auto",
+				"Format: auto"
+			],
+			[
+				"cla",
+				"Format: Clang"
+			],
+			[
+				"mon",
+				"Monokai Pro: select theme"
+			],
+			[
+				"autope",
+				"autogen: Generate template"
+			],
+			[
+				"ss ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"m",
+				"Monokai Pro: select theme"
+			],
+			[
+				"clang",
+				"Format: Clang"
+			],
+			[
+				"moni",
+				"Monokai Pro: select theme"
+			],
+			[
+				"clan",
+				"Format: Clang"
+			],
+			[
+				"cl",
+				"Format: Clang"
+			],
+			[
+				"sublinter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"sublinelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"ski",
+				"UI: Select Skin"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"ss ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console.log()"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set",
+				"Set Syntax: JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"bxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"format",
+				"Format: JsLint"
+			],
+			[
+				"foramt: ca",
+				"Format: Clang"
+			],
+			[
+				"ss goog",
+				"Set Syntax: Google Configuration Language"
+			],
+			[
+				"clnag",
+				"Format: Clang"
+			],
+			[
+				"cs",
+				"Google CS: Search"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssec",
+				"Set Syntax: Clojure"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjavascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"clna",
+				"Format: Clang"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"jsli",
+				"Format: JsLint"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"se",
+				"Set Syntax: JSON"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"for",
+				"Format selection: Clang"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"s",
+				"Set Syntax: Python"
+			],
+			[
+				"ckage ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: JSON"
+			],
+			[
+				"format:",
+				"Format: Pyformat"
+			],
+			[
+				"set syntax:proto",
+				"Set Syntax: Protocol Buffer (TEXT)"
+			],
+			[
+				"set syntax:bla",
+				"Set Syntax: Batch File"
+			],
+			[
+				"set Syntax:Bui",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"c",
+				"Format: Clang"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ccp",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Boxy Theme: Activation"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"g4 lint",
+				"G4: List Opened Files"
+			],
+			[
+				"control",
+				"Package Control: List Packages"
+			],
+			[
+				"clang forma",
+				"Clang Format: Select Style"
+			],
+			[
+				"cc",
+				"Package Control: List Packages"
+			],
+			[
+				"ssjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"build",
+				"Build With: blaze"
+			],
+			[
+				"sscj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"buid",
+				"Build With: blaze"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 320.0
+	},
+	"console":
+	{
+		"height": 624.0,
+		"history":
+		[
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/usr/local/google/home/prasenjitj/Dev/trydjango1-11",
+		"/usr/local/google/home/prasenjitj/Dev/trydjango1-11/src",
+		"/usr/local/google/home/prasenjitj/Dev/trydjango1-11/src/muypicky",
+		"/usr/local/google/home/prasenjitj/Dev/trydjango1-11/src/muypicky/settings"
+	],
+	"file_history":
+	[
+		"/usr/local/google/home/prasenjitj/.zshrc",
+		"/usr/local/google/home/prasenjitj/.config/sublime-text-3/Packages/google-format/google-format.sublime-settings",
+		"/usr/local/google/home/prasenjitj/Downloads/payload.txt",
+		"/usr/local/google/home/prasenjitj/linux-bing-wallpaper/README.md",
+		"/usr/local/google/home/prasenjitj/demonstration/manage.py",
+		"/usr/local/google/home/prasenjitj/demonstration/demonstration/urls.py",
+		"/google/src/cloud/prasenjitj/lottery/google3/knowledge/toolkit/vf_data/crawl/lottery/cash3/extension.js",
+		"/usr/local/google/home/prasenjitj/Desktop/adelhphi Buddy Master/script1.js",
+		"/usr/local/google/home/prasenjitj/Desktop/adelhphi Buddy Master/script.js",
+		"/google/src/cloud/prasenjitj/lottery/google3/blaze-genfiles/java/com/google/onebox/features/lottery/feed/lottery_feed.pb.js",
+		"/google/src/cloud/prasenjitj/lottery/google3/blaze-genfiles/indexing/custom_corpus/clients/hume/extension_result.pb.js",
+		"/google/src/cloud/prasenjitj/lottery/google3/knowledge/toolkit/vf_data/crawl/lottery/lib.js",
+		"/google/src/cloud/prasenjitj/lottery/google3/java/com/google/onebox/features/lottery/BUILD",
+		"/usr/local/google/home/prasenjitj/Desktop/pdf_parser.py",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/cash3/extension.js",
+		"/usr/local/google/home/prasenjitj/.cache/.fr-AiX2SO/ReadMe KMSnano.txt",
+		"/media/prasenjitj/W7SP1_HOMEPREMIUM/activate win7 tools/Advanced Tokens Manager v3.5 BETA 3/Advanced Tokens Manager v3.5 BETA 3/Readme.txt",
+		"/usr/local/google/home/prasenjitj/Desktop/test2.py",
+		"//codelab/unittesting/python",
+		"/usr/local/google/home/prasenjitj/Desktop/click_tester.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/Federal/extension.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/Federal/url.txt",
+		"/usr/local/google/home/prasenjitj/demonstration/demonstration/settings.py",
+		"/usr/local/google/home/prasenjitj/demonstration/app/views.py",
+		"/usr/local/google/home/prasenjitj/Downloads/resource (1).txt",
+		"/usr/local/google/home/prasenjitj/Downloads/resource.txt",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/vincicasa/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/java/com/google/onebox/features/lottery/feed/lottery_feed.pb.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/vincicasa/testdata/sample.txt",
+		"/usr/local/google/home/prasenjitj/Downloads/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/lib.js",
+		"/google/src/cloud/prasenjitj/lottery/google3/.zshrc",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/vincicasa/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/vincicasa/constants.js",
+		"/usr/local/google/home/prasenjitj/.themes/Flatabulous-14.04.1/index.theme",
+		"/usr/local/google/home/prasenjitj/.themes/Flatabulous-14.04.1/README.md",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/vincicasa/(unreachable)/cloud/prasenjitj/prasenjitj/google3/.zshrc",
+		"/usr/local/google/home/prasenjitj/Downloads/render (1).txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/java/com/google/onebox/features/lottery/feed/lottery_feed_pb2.py",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/vincicasa/url.txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lottery/loteriasyapuestas/extension.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/loteriasyapuestas/url.txt",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/cash3/url.txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/vf_data/crawl/lotterys",
+		"/google/src/cloud/prasenjitj/lottery/google3/knowledge/toolkit/crawl/lottery/cash3/BUILD",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/url.txt",
+		"/google/src/cloud/prasenjitj/lottery/google3/knowledge/toolkit/crawl/lottery/cash3/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/java/com/google/onebox/features/lottery/.pipertmp-cTVnpv-BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/wrs/web_rendering_service_client.py",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/vincicasa/extension.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/loteriasyapuestas/extension_repeated.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/loteriasyapuestas/extension_v2.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/loteriasyapuestas/extension.js",
+		"/usr/local/google/home/prasenjitj/Downloads/render.txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/renderer.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/loteriasyapuestas/constants.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/common.js",
+		"/usr/local/google/home/prasenjitj/Desktop/render_request.txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/loteriasyapuestas/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/lottery_feed_wrapper.proto",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/knowledge/toolkit/crawl/lottery/loteriasyapuestas/sample/sample.txt",
+		"/usr/local/google/home/prasenjitj/Desktop/adelhphi Buddy Master/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/adelhphi Buddy Master/content.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/common.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/constants.js",
+		"/tmp/.pipertmp-WWZrmJ-mail",
+		"/usr/local/google/home/prasenjitj/Desktop/pagecompareextension/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/pagecompareextension/background_test.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA CL/HPA-mvt-tool-master/tempauth.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA CL/HPA-mvt-tool-master/content.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA CL/HPA-mvt-tool-master/script.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA CL/HPA-mvt-tool-master/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/adelhphi Buddy Master/tempauth.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA-mvt-tool-master/script.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA-mvt-tool-master/tempauth.js",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA-mvt-tool-master/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/Delhphi Buddy Master/tempauth.js",
+		"/usr/local/google/home/prasenjitj/Desktop/Delhphi Buddy Master/README.md",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/vincicasa/constants.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/loterias/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loterias/extension.js",
+		"/usr/local/google/home/prasenjitj/Desktop/CDM/extension.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/renderer.js",
+		"/usr/local/google/home/prasenjitj/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/usr/local/google/home/prasenjitj/.config/sublime-text-3/Packages/CodeFormatter/Default (Linux).sublime-keymap",
+		"/tmp/crontab.BEjBef/crontab",
+		"/usr/local/google/home/prasenjitj/Desktop/bing-desktop-wallpaper-changer-master/bin/main.py",
+		"/usr/local/google/home/prasenjitj/Desktop/exa.py",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/experimental/users/ajaiswal/crawl/web_render/lottery_feed_wrapper.pb.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/test.js",
+		"/usr/local/google/home/prasenjitj/Desktop/Gcase v2/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/Gcase v2/popup.js",
+		"/usr/local/google/home/prasenjitj/Desktop/Gcase v2/write.js",
+		"/usr/local/google/home/prasenjitj/Desktop/Gcase v2/getPageSource.js",
+		"/usr/local/google/home/prasenjitj/Desktop/Gcase v2/popup.html",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/renderer_extension_debug-module.expanded_template",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/renderer_extension_debug.jscompiler_params",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/blaze-genfiles/experimental/users/ajaiswal/crawl/web_render/lottery_feed_wrapper_pb2.py",
+		"/usr/local/google/home/prasenjitj/Pictures/BingWallpapers/image-details.txt",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/coursera/BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/renderer.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loterias/BUILD",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/common.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/generate_extension_code.sh",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/experimental/users/ajaiswal/crawl/web_render/loteriasyapuestas/parser.py",
+		"/usr/local/google/home/prasenjitj/Desktop/bengali language suggested changes.txt",
+		"/google/src/cloud/prasenjitj/lottery/google3/experimental/users/prasenjitj/lottery_br/wrs/web_rendering_service_client.py",
+		"/google/src/cloud/prasenjitj/lottery/google3/experimental/users/ajaiswal/crawl/web_render/BUILD",
+		"/google/src/cloud/prasenjitj/lottery/google3/experimental/users/ajaiswal/crawl/web_render/web_renderer.py",
+		"/tmp/.pipertmp-sDcR9k-cleanup",
+		"/tmp/.pipertmp-MvD4iY",
+		"/tmp/.pipertmp-nEPvhh",
+		"/usr/share/bash-completion/bash_completion",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/ocean/metadata/crawler/config/flipkart.com/js/book.js",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/ocean/metadata/crawler/config/flipkart.com/js/author.js",
+		"/usr/local/google/home/prasenjitj/Desktop/fim_festival.pq",
+		"/usr/local/google/home/prasenjitj/Desktop/tempjs.js",
+		"/usr/local/google/home/prasenjitj/Desktop/loterias.js",
+		"/usr/local/google/home/prasenjitj/.bashrc",
+		"/google/src/cloud/prasenjitj/prasenjitj/google3/ocean/metadata/crawler/config/flipkart.com/testcases/book/testing.textproto",
+		"/usr/local/google/home/prasenjitj/.cache/.fr-lCwS7I/HPA-mvt-tool-master/script.js",
+		"/usr/local/google/home/prasenjitj/.cache/.fr-ASvl4h/HPA-mvt-tool-master/manifest.json",
+		"/usr/local/google/home/prasenjitj/Desktop/HPA-mvt-tool-master/README.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"reuire",
+			"com.google.onebox.features.lottery.feed.",
+			"const",
+			"= new ",
+			"com",
+			" =\n    new com",
+			"=\n    new ",
+			"Serializer",
+			"ExtensionResult",
+			"Organizer",
+			"D",
+			"d",
+			"D",
+			"LotteryResult",
+			"Game",
+			"drawResult",
+			"d",
+			"winningResult",
+			"lotteryResultCategory",
+			"drawResult",
+			"drawType",
+			"d",
+			"drawType",
+			"lotteryResult",
+			"organizer",
+			"game",
+			"= new",
+			"= new ",
+			"=\n          new ",
+			"Array[index]",
+			"\n                                     ",
+			"lotteryObjectArray[index]\n",
+			"Array[index]",
+			"getDrawValues",
+			"Lottery",
+			"lottery.CrawlData",
+			"{\n",
+			"lottery.CrawlData",
+			"Lottery",
+			"matchFingerPrint",
+			"result",
+			"jspbMessage",
+			"JspbMessage",
+			"jspbMessage",
+			"JspbMessage",
+			"gameInstance",
+			"result",
+			"date_drawn",
+			"gameInstance",
+			"game",
+			"this.",
+			"this.parentElement",
+			"testing",
+			"setNextState",
+			"State",
+			"lotteryData",
+			"CrawlData",
+			"lotteryData",
+			"lottery.CrawlData",
+			"};",
+			"= function",
+			"lottery.crawlData.prototype.",
+			"getDrawValues",
+			"};",
+			"= function",
+			"lottery.crawlData.prototype.",
+			"let",
+			"CrawlData.prototype.",
+			") {",
+			"}\n",
+			"if (lotteryData.getState() == ",
+			"= function",
+			"lottery",
+			"crawlData",
+			"loadpayouts",
+			"loadPayouts",
+			" loadPayouts",
+			"nbrs",
+			"highlighting",
+			"replaceChars",
+			"checkPrizeFingerprint",
+			"setPrizes",
+			"checkPrizeFingerprint",
+			"[\"\\.\"]",
+			"regex",
+			"getJackpot",
+			"setJackpot",
+			"setGameValues",
+			"node.querySelector(\"span\").innerText\n",
+			"indexOf",
+			"renderResult",
+			"setJackpot",
+			"PrizeCategory",
+			"setPrizeCategoryValue",
+			"oog.proto2.Message",
+			"lottery.c",
+			"parsed_response[\"lottery_result\"]",
+			"][",
+			"parsed_response[\"lottery_result\"]",
+			"this",
+			"setDateDrawn",
+			"getElements",
+			"Not a valid game type",
+			"addDrawResult",
+			"the",
+			"getObject",
+			"any",
+			"winningResult",
+			"gameType",
+			"gameCategory",
+			"this",
+			"    ",
+			"    console.log('***************************************');\n",
+			"midday",
+			"crawlData",
+			"onload",
+			"true",
+			"Jackpot fingerprint failed.",
+			"match",
+			"getDateAndSeqArray",
+			"getdetail",
+			"locale",
+			"getDate",
+			"this.setPrizes",
+			"this.setPrize",
+			"getdate ",
+			"julio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"extensionResult",
+			"result",
+			"]",
+			"result",
+			"",
+			"lottery.cash3",
+			"throw crawlData.customException",
+			"extension.target",
+			"extension.target.document",
+			"windowRef_",
+			"",
+			"domRef.document",
+			"domRef",
+			"this.domRef_",
+			"domRef_",
+			"",
+			"this.",
+			"",
+			"let",
+			"crawlData",
+			"\", \"",
+			", \\n",
+			", /n",
+			", \\n",
+			"getTextContent",
+			"",
+			"}},{",
+			".data",
+			"\\1",
+			"##",
+			"",
+			", \\n",
+			"",
+			"setCategoryValue",
+			",\\n",
+			"",
+			"'",
+			": ",
+			",\\n",
+			"\\n",
+			"': ",
+			"' ",
+			"'",
+			": ",
+			"'\\t",
+			"",
+			"KGT.*?'\\1\\n",
+			"'\\n\\1",
+			"'\\n$1",
+			"'",
+			"\\n",
+			",\\n",
+			"",
+			"\\n",
+			"",
+			"/usr/local/google/home/prasenjitj/library/",
+			"crawl_web_render.loterias.ExtensionResult.",
+			"crawl_web_render.loterias.ExtensionResult",
+			"crawl_web_render.loterias",
+			"",
+			"com.google.onebox.features.lottery.feed.",
+			"extension_test",
+			".",
+			"com.google.onebox.features.lottery.feed.",
+			".LotteryResult.",
+			"com.google.onebox.features.lottery.feed.LotteryResult",
+			"",
+			"\\n",
+			"}\\n{",
+			"property",
+			"",
+			"prizeObjectArray",
+			"getLotteryNumber",
+			"lotteryNumber",
+			"dateAndSequence",
+			"",
+			"\\n",
+			"}\\n{",
+			"",
+			"}\\n{",
+			"crawlData",
+			"\",",
+			"\"",
+			",\\n",
+			" \" \"",
+			" ",
+			"setWinningResultCategory",
+			"lotteryRoundSeq",
+			"number",
+			"Object",
+			"{Int}",
+			"Array",
+			"Object",
+			"Array",
+			"",
+			"\\n",
+			"",
+			"$1",
+			"\\n",
+			"$1",
+			"'",
+			"scrappedData",
+			"element",
+			"\\n",
+			";",
+			";;",
+			"\\n",
+			"",
+			"\\n",
+			";",
+			"\\n",
+			"",
+			"\\n",
+			";",
+			"\\n",
+			";;",
+			"\\n",
+			"",
+			"\\n",
+			";",
+			"\\n",
+			";",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/muypicky/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1705,
+								1705
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2075,
+										2076
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1555,
+										1556
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/muypicky/settings/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/usr/local/google/home/prasenjitj/Desktop/simple_multithreading.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										188,
+										189
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/muypicky/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/restaurants/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										222,
+										223
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										221,
+										222
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/muypicky/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								806,
+								806
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										817,
+										818
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										805,
+										806
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/muypicky/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2922,
+								2922
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"ycs_reported_errors":
+							[
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output._blaze":
+	{
+		"height": 171.0
+	},
+	"output.exec":
+	{
+		"height": 393.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 96.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"ycs_current_error_index": -1,
+		"ycs_reported_errors":
+		[
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

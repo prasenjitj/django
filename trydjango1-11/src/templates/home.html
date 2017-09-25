@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block head_title %}MuyPicky.com{% endblock head_title %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            MuyPicky
+        </title>
+    </head>
+    <body>
+        <h1>
+            Welcome!
+        </h1>
+        <p>
+            This is {{ html_var }} coming through.
+        </p>
+        <p>
+            {% if html_var %}
+    Random Number : {{ num }}
+    {% endif %}
+        </p>
+    </body>
+</html>
+{% endblock content %}
